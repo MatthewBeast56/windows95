@@ -1,5 +1,5 @@
 // This is what you are looking for:
-if(top.location.host!="www.windows93.net") location="http://www.windows93.net";
+if(top.location.host!="www.matthewbeast56.github.io/MatthewBeast56/windows95/windows93.html") location="www.matthewbeast56.github.io/MatthewBeast56/windows95/windows93.html";
 // fb killer
 var param = 'fbclid';
 if (location.search.indexOf(param + '=') !== -1) {
